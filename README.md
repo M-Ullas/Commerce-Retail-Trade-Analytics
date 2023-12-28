@@ -8,6 +8,9 @@
 ### Purpose
   This dashboard can be used by managers and executives to track key performance indicators (KPIs) such as profit, sales, and quantity sold. It can also be used to identify trends and patterns in the data, which can help inform business decisions
 
+![2](https://github.com/M-Ullas/Commerce-Retail-Trade-Analytics/assets/142295090/1bf41a02-606f-4796-8455-538fd70ec0d9)
+
+
 ### Dashboard Link 
  https://app.powerbi.com/groups/me/reports/b0fcb6db-865d-40b0-8916-89173aae9d7a/ReportSection?experience=power-bi
 
