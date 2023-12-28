@@ -1,4 +1,5 @@
 # Commerce Retail-Trade Analytics
+[Download dashboard]( https://app.powerbi.com/groups/me/reports/b0fcb6db-865d-40b0-8916-89173aae9d7a/ReportSection?experience=power-bi)
 
 ### Goals and motivations
 - The primary goal of this analysis project appears to be to gain insights into the profitability and performance of the retail trade company across various states. 
@@ -15,7 +16,9 @@
  https://app.powerbi.com/groups/me/reports/b0fcb6db-865d-40b0-8916-89173aae9d7a/ReportSection?experience=power-bi
 
 ### Table of Contents
-
+- [Goals and motivations](#goals-and-motivations)
+- [Purpose](#purpose)
+- [Dashboard Link](#dashboard-link)
 - [Business Understanding](#business-understanding)
 - [Technologies](#technologies)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
